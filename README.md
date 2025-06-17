@@ -8,7 +8,7 @@ The goal of this repository is to collaboratively develop and refine the AT Mess
 
 ## Context
 
-Bluesky's current direct messaging system is centralized. As outlined in the [Bluesky Roadmap](https://blueskyweb.xyz/roadmap), the goal is to support E2EE DMs natively in the AT Protocol without relying on a centralized service. At the March 2025 AtmosphereConf in Seattle, an [E2EE working group](https://wiki.atprotocol.community/en/working-groups/e2ee) was formed to define this standard, leveraging MLS for robust security.
+Bluesky's current direct messaging system is centralized. As outlined in the [Bluesky Roadmap](https://docs.bsky.app/blog/2024-protocol-roadmap), the goal is to support E2EE DMs natively in the AT Protocol without relying on a centralized service. At the March 2025 AtmosphereConf in Seattle, an [E2EE working group](https://wiki.atprotocol.community/en/working-groups/e2ee) was formed to define this standard, leveraging MLS for robust security.
 
 ## Goals of AT Messaging Proto
 
